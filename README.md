@@ -10,7 +10,8 @@ windows x64, linux arm-32bit(raspian) ... etc
 ## HOW TO USE:
 
 1. Main branch is intentionally left blank.
-2. Binary of different version can be recognized by branch name
+2. Binary files of different version can be recognized by branch name. 
+(If detailed build configuration concerns you, please take a look at README of that branch)
 3. Clone specific version of binary using 
    
    #### git clone -b [branch-name] --single-branch https://github.com/harry123493/opencv-prebuilt.git
