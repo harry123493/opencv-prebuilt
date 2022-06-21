@@ -5,7 +5,7 @@ windows x64, linux arm-32bit(raspian) ... etc
 
 * Users can link their project to desired version of pre-built binary using build tools, such as CMake.
 
-* This saves a lot time for application designers, programmers, and anyone who don't want to spend time on building binaries from source code.
+* This saves a lot of time for application designers, programmers, and anyone who don't want to spend time on building binaries from source code.
 
 ## HOW TO USE:
 
